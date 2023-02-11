@@ -7,32 +7,32 @@ export type ContactProps = {
 export const Contacts: ContactProps[] = [
   {
     name: 'Email',
-    label: 'aprilio842@gmail.com',
-    link: 'mailto:aprilio842@gmail.com',
+    label: 'rpadliwinata@gmail.com',
+    link: 'mailto:rpadliwinata@gmail.com',
   },
-  {
-    name: 'Facebook',
-    label: 'Reva Doni Aprilio',
-    link: 'https://www.facebook.com/reva.doni.aprilio/',
-  },
+  // {
+  //   name: 'Facebook',
+  //   label: 'Reva Doni Aprilio',
+  //   link: 'https://www.facebook.com/reva.doni.aprilio/',
+  // },
   {
     name: 'Github',
-    label: 'RevDonz',
-    link: 'https://github.com/RevDonz',
+    label: 'rpadliwinata',
+    link: 'https://github.com/rpadliwinata',
   },
   {
     name: 'Instagram',
-    label: '@revdonz_',
-    link: 'https://www.instagram.com/revdonz_',
+    label: '@rpadliwinata',
+    link: 'https://www.instagram.com/rpadliwinata',
   },
   {
     name: 'LinkedIn',
-    label: 'Reva Doni Aprilio',
-    link: 'https://www.linkedin.com/in/revdonz',
+    label: 'Rama Padliwinata',
+    link: 'https://www.linkedin.com/in/rama-padliwinata-37177b164/',
   },
   {
     name: 'Telegram',
     label: 'RevDonz',
-    link: 'https://t.me/RevDonz',
+    link: 'https://t.me/rpadliwinata',
   },
 ];

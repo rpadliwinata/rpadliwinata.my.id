@@ -30,7 +30,7 @@ const HeroWithPhoto = ({
         )}
       >
         <Image
-          src={'/me.jpg'}
+          src={'/potrait.jpg'}
           alt='Profile Picture'
           width={150}
           height={150}

@@ -38,7 +38,7 @@ export default function Index() {
         strokeColor={color}
       />
       <div className='w-full border-solid md:w-1/2 bg-secondary text-center md:text-left select-none'>
-        <h1>Reva Doni Aprilio</h1>
+        <h1>Rama Padliwinata</h1>
         <p
           className={clsx(
             'bg-clip-text text-transparent bg-gradient-to-r pt-2',
@@ -46,10 +46,10 @@ export default function Index() {
             'from-primary-500 via-ternary-500 to-secondary-500'
           )}
         >
-          Student & FrontEnd Developer
+          Student & Python Developer
         </p>
         <p className='pt-4 pb-8 m-0 leading-7 border-0 border-gray-300 sm:pr-10 lg:text-lg'>
-          {'Hello everyone👋 Welcome to my personal website.'}
+          {'Welcome to my personal website.'}
         </p>
       </div>
       <div className='relative w-full max-w-md mb-4 text-center bg-no-repeat bg-contain border-solid md:mt-0 md:max-w-none lg:mb-0 md:w-1/2 select-none'>

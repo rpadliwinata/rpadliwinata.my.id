@@ -17,7 +17,7 @@ const about = () => {
         title={'About Me'}
         subtitle='Reva Doni Aprilio'
         description={
-          "Hello, my name is Reva Doni Aprilio, you can call me Doni for short. I live in Bandung, Indonesia. I'm 20 years old. I'm a Frontend Developer and Software Engineering Student at Telkom University."
+          "Hello, my name is Rama Padliwinata, you can call me Rama for short. I live in Bandung, Indonesia. I'm 20 years old. I'm a Python Developer and a Software Engineering Student at Telkom University."
         }
       >
         <p>

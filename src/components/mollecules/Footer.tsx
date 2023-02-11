@@ -23,7 +23,7 @@ const Footer = () => {
           'text-gray-700 dark:text-gray-300'
         )}
       >
-        Copyright &copy; 2002 - All Right Reserved by Reva Doni Aprilio.
+        Copyright &copy; 2023 - All Right Reserved by Rama Padliwinata.
       </p>
     </div>
   );

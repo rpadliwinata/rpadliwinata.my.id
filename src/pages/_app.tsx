@@ -24,15 +24,15 @@ function MyApp({ Component, pageProps, router }: AppProps) {
   return (
     <ThemeProvider defaultTheme='dark' attribute='class'>
       <DefaultSeo
-        description={'Personal Website Porfolio of Reva Doni Aprilio'}
-        defaultTitle='Reva Doni Aprilio - Student and Junior Frontend Developer'
-        titleTemplate={`%s · Revdonz.my.id`}
+        description={'Personal Website Porfolio of Rama Padliwinata'}
+        defaultTitle='Rama Padliwinata - Student and Python Developer'
+        titleTemplate={`%s · rpadliwinata.my.id`}
         openGraph={{
-          title: 'Reva Doni Aprilio - Student and Junior Frontend Developer',
-          description: 'Personal Website Porfolio of Reva Doni Aprilio',
+          title: 'Rama Padliwinata - Student and Python Developer',
+          description: 'Personal Website Porfolio of Rama Padliwinata',
           images: [
             {
-              url: `https://www.revdonz.my.id/og-default.jpg`,
+              url: `https://www.rpadliwinata.my.id/og-default.jpg`,
             },
           ],
         }}
