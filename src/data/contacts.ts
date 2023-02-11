@@ -30,9 +30,9 @@ export const Contacts: ContactProps[] = [
     label: 'Rama Padliwinata',
     link: 'https://www.linkedin.com/in/rama-padliwinata-37177b164/',
   },
-  {
-    name: 'Telegram',
-    label: 'RevDonz',
-    link: 'https://t.me/rpadliwinata',
-  },
+  // {
+  //   name: 'Telegram',
+  //   label: 'RevDonz',
+  //   link: 'https://t.me/rpadliwinata',
+  // },
 ];
