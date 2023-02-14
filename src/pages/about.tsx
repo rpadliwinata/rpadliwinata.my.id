@@ -77,7 +77,7 @@ const about = () => {
             );
           })}
         </ol>
-        <p>
+        {/* <p>
           Also you can read{' '}
           <span>
             <UnstyledLink
@@ -87,7 +87,7 @@ const about = () => {
               my resume here
             </UnstyledLink>
           </span>
-        </p>
+        </p> */}
       </Hero>
     </Main>
   );
