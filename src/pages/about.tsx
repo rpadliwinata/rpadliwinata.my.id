@@ -15,7 +15,7 @@ const about = () => {
       <Head title='About Me' />
       <HeroWithPhoto
         title={'About Me'}
-        subtitle='Reva Doni Aprilio'
+        subtitle='Rama Padliwinata'
         description={
           "Hello, my name is Rama Padliwinata, you can call me Rama for short. I live in Bandung, Indonesia. I'm 20 years old. I'm a Python Developer and a Software Engineering Student at Telkom University."
         }
